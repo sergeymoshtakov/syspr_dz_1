@@ -1,3 +1,3 @@
 # syspr_dz_1
 
-![фото программы](Screenshots/result.png)
+![фото программы](screenshots/result.png)
